@@ -4,7 +4,7 @@ from pyqrcode import QRCode
   
   
 # replace the link with your desired link 
-s = "https://drive.google.com/drive/folders/1--GvIqUNBMZdGVogiqfocRTecddeuTBZ"
+s = "https://drive.google.com/drive/folders/1--"
   
 # for Generating QR code
 url = pyqrcode.create(s)
